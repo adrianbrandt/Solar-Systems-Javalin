@@ -1,7 +1,7 @@
 # Solar System Website Using Java/Javalin/Vue
 ##### This WebPage is Fully customizable for whatever usage you want!
--[Image Example](Screen.png)
-
+![Image Example](Screen.png)
+![System Example](Systems.png)
 ### Solar System Application:
 This Solar System Application is mainly built using Java. It Uses Custom Controllers and basic Celestial Body Models. <br />
 It has possibility to use JSON and CSV Format. I Just prefer CSV (Hence why i put more work in to that specific repo.) <br />

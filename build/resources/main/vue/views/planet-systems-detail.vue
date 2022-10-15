@@ -1,4 +1,4 @@
-<template id="planet-system-detail">
+<template id="planet-system-detail" xmlns:v-bind="http://www.w3.org/1999/xhtml">
     <div class="content-wrapper">
         <div v-if="planetSystem" class="detail-planet-system-container">
             <img v-if="planetSystem.pictureUrl" class="cover-image" v-bind:src="planetSystem.pictureUrl">
